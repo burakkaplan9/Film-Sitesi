@@ -4,4 +4,4 @@
 
 # GİF
 
-<img src="film Sitesi.gif" />
+<img src="film Sitesi.gif" width="50%" />
